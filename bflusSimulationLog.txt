@@ -9,8 +9,8 @@ D:/FLUSmodel/GangchengOriginalData/gangcheng_export/gangcheng_export/restricted_
 [Number of types]
 2
 [Future Pixels]
-0
-0
+2792330
+334000
 [Cost Matrix]
 1,1
 0,1

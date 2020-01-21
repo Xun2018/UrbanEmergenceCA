@@ -21,7 +21,7 @@ int _tmain(int argc, _TCHAR* argv[])
 	GDALAllRegister();
 	CPLSetConfigOption("GDAL_FILENAME_IS_UTF8", "NO");  
 
-	SimulationProcess* sp=new SimulationProcess("bflusSimulationLog.txt","bflusLandDemand.csv");
+	SimulationProcess* sp=new SimulationProcess("bflusSimulationLog.txt");
 	sp->runFLUS();
 
 	system("pause");
