@@ -1,0 +1,39 @@
+[Path of land use data]
+C:/PerfLogs/Driving20191213/simulation_800_2022_2.tif
+[Path of probability data]
+C:/PerfLogs/Driving20191213/fuzzypotential_20191225_10.tif
+[Path of simulation result]
+C:/PerfLogs/Driving20191213/simulation_2000_future_2.tif
+[Path of restricted area]
+D:/FLUSmodel/GangchengOriginalData/gangcheng_export/gangcheng_export/restricted_area5.tif
+[Number of types]
+2
+[Future Pixels]
+0
+0
+[Cost Matrix]
+1,1
+0,1
+[Intensity of neighborhood]
+1
+1
+[Maximum Number Of Iterations]
+3000
+[Size of neighborhood]
+3
+[Accelerated factor]
+0.01
+[Thread count]
+8
+[Average patch of new urban]
+2000
+[Threshold for generating new urban]
+0.1
+[Threshold decay]
+0.1
+[Threshold for relaxing restrict]
+0.05
+[The serial number of urban]
+2
+[Distance between seeds]
+10
